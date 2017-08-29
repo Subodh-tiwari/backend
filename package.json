@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subodh Tiwari <tiwarisubodh@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bluebird": "^3.5.8",
+    "@types/bookshelf": "^0.9.4",
+    "@types/hapi": "^16.1.8",
+    "@types/joi": "^10.4.1",
+    "@types/knex": "0.0.57",
+    "@types/pg": "^6.1.43",
+    "@types/twilio": "0.0.9",
+    "bluebird": "^3.5.0",
+    "bookshelf": "^0.10.4",
+    "hapi": "^16.5.2",
+    "joi": "^10.6.0",
+    "jsonwebtoken": "^7.4.3",
+    "knex": "^0.13.0",
+    "pg": "^7.1.2",
+    "twilio": "^3.6.3",
+    "typings": "^2.1.1"
+  }
+}
